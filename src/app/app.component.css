@@ -1,0 +1,12 @@
+.green {
+    
+    color: green;
+    font-weight: bold;
+}
+
+.red {
+    background-color: red;
+}
+ul {
+    list-style-type: none;
+}
